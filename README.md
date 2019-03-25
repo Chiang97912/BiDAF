@@ -17,7 +17,7 @@ git clone https://github.com/Chiang97912/BiDAF.git
 ## How to train this model?
 
 ```
-Python bidaf_train.py
+Python train.py
 ```
 
 
@@ -25,6 +25,6 @@ Python bidaf_train.py
 ## How to test this model?
 
 ```
-python bidaf_test.py
+python test.py
 ```
 
